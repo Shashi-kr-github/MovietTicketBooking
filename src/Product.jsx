@@ -3,7 +3,8 @@ import { useEffect, useState } from "react"
 
 const Products = () => {
 
-    const [datauseState
+    const [data, setData] = useState([]);
+    
     return (
         <div>
 
